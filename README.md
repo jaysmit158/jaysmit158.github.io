@@ -1,3 +1,3 @@
 # emp_manage
 
-EMP MANAGE VERSION 0.2.1
+EMP MANAGE VERSION 0.2.2
